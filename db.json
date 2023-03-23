@@ -25,5 +25,13 @@
         "cost":"4000",
         "booked":false
       }
+    ],
+
+    "todo":[
+      {
+        "id":1,
+        "title":"Learn React",
+        "status":false
+      }
     ]
   }
