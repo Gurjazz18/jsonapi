@@ -27,11 +27,16 @@
       }
     ],
 
-    "todo":[
+    "todos":[
       {
         "id":1,
         "title":"Learn React",
         "status":false
+      },
+      {
+        "id":2,
+        "title":"Learn Redux",
+        "status":true
       }
     ]
   }
