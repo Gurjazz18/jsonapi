@@ -35,6 +35,18 @@
         "IMDB_Rating" : 7.2,
         "ticket" : 200
       }
+    ],
+
+    "anaalyticdata":[
+      {
+        "id":1,
+        "name":"kailash",
+        "amount":220,
+        "Income":"Salary",
+        "date":"24-03-2022"
+
+      }
+
     ]
    
   }
